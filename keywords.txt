@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For WCN_CCS811
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+WCN_CCS811	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin			KEYWORD2
+readData		KEYWORD2
+getCO2			KEYWORD2
+getTVOC			KEYWORD2
+checkForError		KEYWORD2
+getError		KEYWORD2
+getBaseline		KEYWORD2
+dataAvailable		KEYWORD2
+enableInterrupts	KEYWORD2
+disableInterrupts	KEYWORD2
+setDriveMode		KEYWORD2
+setEnvironmentalData	KEYWORD2
+sensorInfo		KEYWORD2
+reset			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
